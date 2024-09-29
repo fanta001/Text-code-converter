@@ -51,12 +51,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For questions or feedback, please reach out to:
 Yashasvi Gupta - yashasvi.guptaa@gmail.com
-
-
-### Instructions to Customize
-- Replace `yourusername` with your GitHub username in the clone URL.
-- Update `your.email@example.com` with your actual email.
-- Modify the description, features, and any other sections to better fit your project. 
-
-Feel free to let me know if you need any changes!
-
